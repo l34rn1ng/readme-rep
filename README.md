@@ -22,7 +22,7 @@
 	- Метрики
 		- Prometheus + grafana
 	- Логи
-		- Vector + loki
+		- Vector + Loki
 5. Фронтенд приложения
 	- Фреймворк
 		- VUE.js
